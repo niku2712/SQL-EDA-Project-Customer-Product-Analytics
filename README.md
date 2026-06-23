@@ -112,4 +112,4 @@ A consolidated product-level view covering performance tiers, revenue metrics, a
 
 ---
 
-*Built as part of a data analytics portfolio. For questions or feedback, feel free to open an issue.*
+
